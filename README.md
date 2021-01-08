@@ -16,12 +16,12 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/pedromiiguel/Ecoleta">
 	
   
-  <a href="https://github.com/tgmarinho/nlw1/commits/master">
+  <a href="https://github.com/pedromiiguel/Ecoleta/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pedromiiguel/Ecoleta">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/tgmarinho/nlw1/stargazers">
+   <a href="https://github.com/pedromiiguel/Ecoleta/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/pedromiiguel/Ecoleta?style=social">
   </a>
 </p>
