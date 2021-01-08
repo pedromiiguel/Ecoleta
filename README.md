@@ -63,7 +63,7 @@ O layout da aplicação está disponível no [Figma](https://www.figma.com/file/
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/pedromiiguel/Ecoleta
+$ git clone https://github.com/pedromiiguel/Ecoleta.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Ecoleta
